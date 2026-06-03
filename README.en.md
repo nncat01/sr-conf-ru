@@ -1,3 +1,5 @@
+**English** | [**Русский**](https://github.com/nncat01/sr-conf-ru/blob/main/README.md)
+
 # RCVPN-SR
 
 Routing configurations for the popular Shadowrocket proxy/VPN client, developed specifically for Apple OS.

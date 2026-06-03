@@ -1,3 +1,5 @@
+[**English**](https://github.com/nncat01/sr-conf-ru/blob/main/README.en.md) | **Русский**
+
 # sr-conf-ru
 
 Конфигурации маршрутизации для популярного Proxy/VPN клиента Shadowrocket, разработанного специально для ОС от Apple

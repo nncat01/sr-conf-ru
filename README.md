@@ -13,8 +13,8 @@ select - в качестве Proxy/VPN конфигураций использу
 | Конфиг маршрутизации | Источник CIDR и доменов | Публичный DNS |
 |-----------|-----------|-----------|
 | [RU_GL2_D_A](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/GeoLite2/RU_GL2_D_A.conf), [RU_GL2_S_A](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/select/GeoLite2/RU_GL2_S_A.conf) | GeoLite2 + blackmatrix7 + misha-tgshv | AdGuard DNS |
-| RU_GL2_D_C, RU_GL2_S_C | GeoLite2 + blackmatrix7 + misha-tgshv | Cloudflare DNS |
-| RU_GL2_D_G, RU_GL2_S_G | GeoLite2 + blackmatrix7 + misha-tgshv | AdGuard DNS |
+| [RU_GL2_D_C](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/GeoLite2/RU_GL2_D_C.conf), [RU_GL2_S_C](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/select/GeoLite2/RU_GL2_S_C.conf) | GeoLite2 + blackmatrix7 + misha-tgshv | Cloudflare DNS |
+| [RU_GL2_D_G](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/GeoLite2/RU_GL2_D_G.conf), [RU_GL2_S_G](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/select/GeoLite2/RU_GL2_S_G.conf) | GeoLite2 + blackmatrix7 + misha-tgshv | AdGuard DNS |
 | RU_RCVPN_D_A, RU_RCVPN_S_A | roscomvpn-routing (адаптация конфига для Happ под SR) | AdGuard DNS |
 | RU_RCVPN_D_C, RU_RCVPN_S_C | roscomvpn-routing (адаптация конфига для Happ под SR) | Cloudflare DNS |
 | RU_RCVPN_D_G, RU_RCVPN_S_G | roscomvpn-routing (адаптация конфига для Happ под SR) | AdGuard DNS |

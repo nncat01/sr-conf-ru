@@ -2,7 +2,7 @@
 
 # sr-conf-ru
 
-Routing configurations for the popular Proxy/VPN client Shadowrocket, developed specifically for Apple operating systems.
+Routing configurations for the popular Proxy/VPN client [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), developed specifically for Apple operating systems.
 #
 The configurations are divided into two types:
 

@@ -1,8 +1,7 @@
 [**English**](https://github.com/nncat01/sr-conf-ru/blob/main/README.en.md) | **Русский**
 
 # sr-conf-ru
-
-Конфигурации маршрутизации для популярного Proxy/VPN клиента Shadowrocket, разработанного специально для ОС от Apple
+Конфигурации маршрутизации для популярного Proxy/VPN клиента [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), разработанного специально для ОС от Apple
 # 
 Конфигурации делятся на два типа:
 

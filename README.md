@@ -3,7 +3,7 @@
 # sr-conf-ru
 Конфигурации маршрутизации для популярного Proxy/VPN клиента [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), разработанного специально для ОС от Apple
 # 
-| Конфиг маршрутизации | Источник CIDR и доменов | Публичный DNS |
+| Конфиг | Источник CIDR и доменов | Публичный DNS |
 |-----------|-----------|-----------|
 | [RU_GL2_A](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/GeoLite2/RU_GL2_D_A.conf) | GeoLite2 + [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket) + [misha-tgshv](https://github.com/misha-tgshv/shadowrocket-configuration-file/tree/main/rules) | AdGuard DNS |
 | [RU_GL2_C](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/GeoLite2/RU_GL2_D_C.conf) | GeoLite2 + [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket) + [misha-tgshv](https://github.com/misha-tgshv/shadowrocket-configuration-file/tree/main/rules) | Cloudflare DNS |

@@ -3,12 +3,6 @@
 # sr-conf-ru
 Конфигурации маршрутизации для популярного Proxy/VPN клиента [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118), разработанного специально для ОС от Apple
 # 
-Конфигурации делятся на два типа:
-
-• default (_D_) - в качестве Proxy/VPN конфигурации используется та, которую пользователь выбрал на главном экране
-
-• select (_S_) - в качестве Proxy/VPN конфигураций используются NL AWG 2.0 и WARP AWG 2.0 для некоторых ресурсов (этот вариант делался в первую очередь под себя)
-
 | Конфиг маршрутизации | Источник CIDR и доменов | Публичный DNS |
 |-----------|-----------|-----------|
 | [RU_GL2_D_A](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/default/GeoLite2/RU_GL2_D_A.conf), [RU_GL2_S_A](https://github.com/nncat01/sr-conf-ru/raw/refs/heads/main/select/GeoLite2/RU_GL2_S_A.conf) | GeoLite2 + [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket) + [misha-tgshv](https://github.com/misha-tgshv/shadowrocket-configuration-file/tree/main/rules) | AdGuard DNS |
